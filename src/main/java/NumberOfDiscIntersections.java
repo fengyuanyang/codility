@@ -8,6 +8,7 @@ public class NumberOfDiscIntersections {
         System.out.println(numberOfDiscIntersections.solution(A));
     }
 
+//    56%
     public int solution(int[] A) {
         // write your code in Java SE 8
         int intersectionsCnt = 0;
